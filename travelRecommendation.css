@@ -1,0 +1,6 @@
+body {
+    background-image: url('./../static/backgroundImage.jpg');
+    background-size: cover;
+    background-repeat: no-repeat; 
+    filter: opacity(.75);
+}
