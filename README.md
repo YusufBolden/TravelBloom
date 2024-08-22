@@ -1,2 +1,2 @@
-# TravelBloom
+# TravelRecommendation
 travel-related platform
